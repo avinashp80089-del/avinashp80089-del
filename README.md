@@ -1,4 +1,4 @@
-# Hi, I'm Sai Avinash Polina 👋
+# Hi, I'm Sai 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=avinashp80089-del&color=2e75b6&style=flat-square&label=Profile+Views)
 
